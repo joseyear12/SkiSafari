@@ -37,6 +37,7 @@ header {
   text-align: center;
   margin-left: 2.5cm;
   display: inline-block;
+   border-radius: 25px;
 }
 
 img {
