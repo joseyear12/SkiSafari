@@ -1,0 +1,221 @@
+#html1 {
+  font-family: "Trebuchet MS";
+}
+
+header {
+  background-color: deepskyblue;
+  height: 4cm;
+}
+
+.navlist {
+  display: inline;
+  padding-left: 2cm;
+  font-size: larger;
+}
+
+.frontimg {
+  width: 8cm;
+  height: 4.5cm;
+  margin-left: auto;
+  margin-right: auto;
+  display: inline-block;
+}
+
+.frontword {
+  text-align: center;
+  margin-top: 2.5cm;
+  font-family: 'Alex Brush', cursive;
+  font-size: 400%;
+}
+
+.frontdiv {
+  background-color: white;
+  padding-top: 0.1in;
+  padding-bottom: 0.1in;
+  padding-left: 0.1in;
+  padding-right: 0.1in;
+  text-align: center;
+  margin-left: 2.5cm;
+  display: inline-block;
+}
+
+img {
+  display: inline;
+  width: 5cm;
+  height: 2.5cm;
+}
+
+li {
+  text-decoration: none;
+  display:inline;
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+}
+
+footer{
+    background-color: gray;
+    color: white;
+}
+
+.footerimg{
+    width: 2.5cm;
+    height: 2.5cm;
+}
+
+#body1{
+    background-image: url(https://images.pexels.com/photos/18334679/pexels-photo-18334679/free-photo-of-mountain-in-snow.jpeg?auto=compress&cs=tinysrgb&w=800);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+/*Index CSS Ends Here*/
+
+#html2{
+    font-family: "Trebuchet MS";
+}
+
+.frontword2{
+    font-family: 'Alex Brush', cursive;
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 1cm;
+}
+
+#body2{
+    background-image: url(file:///D:/Site%20Prac/images/snow1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/*About Us Ends Here*/
+
+#html3{
+    font-family: "Trebuchet MS";
+}
+
+.servsec{
+    display: inline-block;
+}
+
+.servdiv{
+    display: inline;
+    margin-left: 4cm;
+}
+
+.servp{
+    padding-left: 5cm;
+    margin-bottom: 1cm;
+}
+
+.servimg{
+    width: 6.5cm;
+    height: 4cm;
+    border-radius: 25px;
+}
+
+#body3{
+background-image: url(file:///D:/Site%20Prac/images/TBR.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+.frontword3{
+    text-align: center;
+  margin-bottom: 2cm;
+  font-family: 'Alex Brush', cursive;
+  font-size: 400%;
+}
+
+/*Services ends here*/
+
+#html4{
+    font-family: "Trebuchet MS"
+}
+
+#body4{
+    background-image: url(https://images.unsplash.com/photo-1522269229424-7b5980916305?auto=format&fit=crop&q=60&w=800&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nzh8fHNub3d8ZW58MHx8MHx8fDA%3D);
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+.galdiv{
+    background-color: white;
+    display: inline-block;
+    width: 7in;
+    height: 3in;
+    margin-top: 1cm;
+    border-radius: 25px;
+    padding: 1.5cm 1.5cm;
+    height: 3in;
+    border: solid black 3px;
+}
+
+.galimg{
+    width: 2in;
+    height: 1.5in;
+    display: inline;
+    border-radius: 25px;
+}
+
+.galtext{
+    display: block;
+}
+.galdiv2{
+    background-color: white;
+    display: inline-block;
+    width: 7in;
+    height: 3in;
+    margin-left: 5in;
+    margin-top: 1cm;
+    border-radius: 25px;
+    padding: 1.5cm 1.5cm;
+    border: solid black 3px;
+}
+
+#gallery1{
+  font-family: 'Alex Brush', cursive;
+  text-align: center;
+  font-size: 400%;
+}
+
+*{
+  margin: 0;
+}
+/*Gallery ends here*/
+
+.subtext{
+  text-align: center;
+  font-family: 'Alex Brush', cursive;
+  margin-top: 1cm;
+}
+
+.subimg{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  height: 2in;
+  width: 4in;
+  border: solid black 2px;
+  border-radius: 25px;
+}
+
+.bodysub{
+background-image: url(https://images.unsplash.com/photo-1454496522488-7a8e488e8606?auto=format&fit=crop&q=60&w=800&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fG1vdW50YWluJTIwcGVha3xlbnwwfHwwfHx8MA%3D%3D);
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+.htmlsub{
+  font-family: "Trebuchet MS"
+}
+
+.mainsub{
+  margin-top: 1cm;
+  margin-bottom: 1cm;
+  text-align: center;
+}
